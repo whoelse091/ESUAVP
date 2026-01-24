@@ -88,7 +88,7 @@ Yes. Planned:
 <table>
   <tr>
     <td width="120" align="center">
-      <a href="https://github.com/husei932">
+      <a href="https://github.com/whoelse091">
         <img src="https://github.com/husei932.png" width="96" alt="@husei932">
       </a>
       <br/>

@@ -92,7 +92,7 @@ Yes. Planned:
         <img src="https://github.com/husei932.png" width="96" alt="@husei932">
       </a>
       <br/>
-      <sub><b>@husei932</b></sub>
+      <sub><b>@whoelse091</b></sub>
     </td>
     <td>
       <b>Role:</b> Maintainer / Hardware & Firmware<br/>
